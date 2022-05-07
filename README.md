@@ -1,4 +1,4 @@
-![img](README.assets/%N66B34_U_@IX7U}471DH.png)
+![img](/README.assets/%N66B34_U_@IX7U}471DH.png)
 
 # BreakOut
 
