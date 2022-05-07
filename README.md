@@ -37,7 +37,7 @@
 
 ### 2.`glm`
 
-专门为`OpenGL`量身定做的数学库，那就是`GLM`。`GLM`是`OpenGL Mathematics`的缩写，它是一个**只有头文件的**库，也就是说我们只需包含对应的头文件就行了，不用链接和编译。[官网]([OpenGL Mathematics (g-truc.net)](https://glm.g-truc.net/0.9.8/index.html))
+专门为`OpenGL`量身定做的数学库，那就是`GLM`。`GLM`是`OpenGL Mathematics`的缩写，它是一个**只有头文件的**库，也就是说我们只需包含对应的头文件就行了，不用链接和编译。[官网]([OpenGL Mathematics (g-truc.net)](https://glm.g-truc.net/0.9.8/index.html)
 
 ### 3.`SOIL2`
 
